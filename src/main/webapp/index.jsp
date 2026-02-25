@@ -14,7 +14,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> JAI BALYYAAA.</h2>
+      <h2>ODDIYAMMA BUNTYYYYY......</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
@@ -24,7 +24,7 @@
           <input type="password" required />
           <label>Password</label>
         </div>
-        <button type="submit">LOGIN AVV RA HUKKAA.. </button>
+        <button type="submit">LOGIN AVV FLASHMAN.... </button>
         <div class="form-help">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
