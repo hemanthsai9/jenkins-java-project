@@ -22,7 +22,7 @@
         </div>
         <div class="form-control">
           <input type="password" required />
-          <label>Password kottu ra hukaaa...</label>
+          <label>Password nokku ayya thusuuu...</label>
         </div>
         <button type="submit">LOGIN AVV FLASHMAN.... </button>
         <div class="form-help">
@@ -30,7 +30,7 @@
             <input type="checkbox" id="remember-me" />
             <label for="remember-me">Remember me</label>
           </div>
-          <a href="#">Help kavaalayya yaa yaa helpuuu kavalayyaaa?</a>
+          <a href="#">Help kavaliii?</a>
         </div>
       </form>
       <p>New to NNNNNNNNNNNetflix? <a href="#">Lets join uxxp now</a></p>
