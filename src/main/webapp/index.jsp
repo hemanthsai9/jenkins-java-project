@@ -21,8 +21,8 @@
           <label>RANDI RA RANDI LOGIN AYYI RANDI</label>
         </div>
         <div class="form-control">
-          <input type="password kottu ra hukkaa..." required />
-          <label>Password</label>
+          <input type="password" required />
+          <label>Password kottu ra hukaaa...</label>
         </div>
         <button type="submit">LOGIN AVV FLASHMAN.... </button>
         <div class="form-help">
