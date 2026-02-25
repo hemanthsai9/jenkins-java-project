@@ -18,7 +18,7 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>RANDI RA RANDI LAGIN AYYI RANDI</label>
+          <label>RANDI RA RANDI LOGIN AYYI RANDI</label>
         </div>
         <div class="form-control">
           <input type="password" required />
